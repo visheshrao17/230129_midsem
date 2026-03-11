@@ -1,0 +1,37 @@
+{
+    "student_metadata": {
+        "Vishesh": "Vishesh",
+        "enrolment_number": "230129",
+        "course": "Advanced Machine Learning",
+        "assignment": "Mid-Semester Part B",
+        "paper": "Analysis of SVM with Indefinite Kernels (NIPS 2009)"
+    },
+    "task_tag": "Task 4.2",
+    "task_description": "Overall Project - General LLM usage across the entire Part B assignment",
+    "llm_tools_used": [
+        {
+            "tool_name": "ChatGPT / Claude / Gemini",
+            "version": "Specify version used",
+            "purpose": "Assisted in overall project structure, code debugging, and documentation"
+        }
+    ],
+    "full_llm_interaction_log": [
+        {
+            "prompt": "Generate the project structure for AML mid-semester Part B",
+            "response_summary": "Provided complete project structure with notebooks, JSON files, and supporting documentation",
+            "timestamp": "2026-03-11"
+        }
+    ],
+    "top_5_prompts": [
+        "Create the project folder structure for AML mid-semester Part B",
+        "Generate requirements.txt with pinned versions for the project",
+        "Help debug convergence issues in the projected gradient implementation",
+        "Review the overall project for completeness and correctness",
+        "Create LLM disclosure JSON templates following the required schema"
+    ],
+    "student_declaration": {
+        "declaration": "I declare that I have used LLM tools as disclosed above. The final project is my own.",
+        "date": "2026-03-11",
+        "signature": "Vishesh"
+    }
+}

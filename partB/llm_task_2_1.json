@@ -1,0 +1,37 @@
+{
+    "student_metadata": {
+        "Vishesh": "Vishesh",
+        "enrolment_number": "230129",
+        "course": "Advanced Machine Learning",
+        "assignment": "Mid-Semester Part B",
+        "paper": "Analysis of SVM with Indefinite Kernels (NIPS 2009)"
+    },
+    "task_tag": "Task 2.1",
+    "task_description": "Dataset Selection and Preprocessing - Loading, normalizing, and splitting the Iris dataset",
+    "llm_tools_used": [
+        {
+            "tool_name": "ChatGPT / Claude / Gemini",
+            "version": "Specify version used",
+            "purpose": "Assisted in dataset selection rationale and preprocessing code"
+        }
+    ],
+    "full_llm_interaction_log": [
+        {
+            "prompt": "Suggest a suitable dataset for reproducing SVM with indefinite kernels experiments",
+            "response_summary": "Recommended Iris dataset for binary classification experiments",
+            "timestamp": "2026-03-11"
+        }
+    ],
+    "top_5_prompts": [
+        "What dataset is suitable for kernel SVM experiments?",
+        "How to preprocess the Iris dataset for binary SVM classification?",
+        "Why use StandardScaler normalization for kernel methods?",
+        "How to create a stratified train-test split in scikit-learn?",
+        "How to visualize feature distributions for binary classification?"
+    ],
+    "student_declaration": {
+        "declaration": "I declare that I have used LLM tools as disclosed above. The final implementation is my own.",
+        "date": "2026-03-11",
+        "signature": "Vishesh"
+    }
+}

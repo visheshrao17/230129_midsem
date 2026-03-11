@@ -1,0 +1,37 @@
+{
+    "student_metadata": {
+        "Vishesh": "Vishesh",
+        "enrolment_number": "230129",
+        "course": "Advanced Machine Learning",
+        "assignment": "Mid-Semester Part B",
+        "paper": "Analysis of SVM with Indefinite Kernels (NIPS 2009)"
+    },
+    "task_tag": "Task 3.1",
+    "task_description": "Ablation Study - Ablating PSD projection and regularization parameter rho",
+    "llm_tools_used": [
+        {
+            "tool_name": "ChatGPT / Claude / Gemini",
+            "version": "Specify version used",
+            "purpose": "Assisted in designing ablation experiments and interpreting results"
+        }
+    ],
+    "full_llm_interaction_log": [
+        {
+            "prompt": "Design ablation experiments for the SVM with indefinite kernels paper",
+            "response_summary": "Suggested ablating PSD projection and regularization parameter",
+            "timestamp": "2026-03-11"
+        }
+    ],
+    "top_5_prompts": [
+        "What components of the indefinite kernel SVM should be ablated?",
+        "How does removing PSD projection affect SVM optimization?",
+        "What is the effect of regularization parameter rho on kernel methods?",
+        "How to visualize ablation study results effectively?",
+        "Explain the bias-variance trade-off in kernel regularization"
+    ],
+    "student_declaration": {
+        "declaration": "I declare that I have used LLM tools as disclosed above. The final ablation study is my own.",
+        "date": "2026-03-11",
+        "signature": "Vishesh"
+    }
+}

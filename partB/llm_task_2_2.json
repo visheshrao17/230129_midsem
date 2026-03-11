@@ -1,0 +1,37 @@
+{
+    "student_metadata": {
+        "Vishesh": "Vishesh",
+        "enrolment_number": "230129",
+        "course": "Advanced Machine Learning",
+        "assignment": "Mid-Semester Part B",
+        "paper": "Analysis of SVM with Indefinite Kernels (NIPS 2009)"
+    },
+    "task_tag": "Task 2.2",
+    "task_description": "Core Implementation - Implementing projected gradient SVM with PSD kernel projection",
+    "llm_tools_used": [
+        {
+            "tool_name": "ChatGPT / Claude / Gemini",
+            "version": "Specify version used",
+            "purpose": "Assisted in implementing the projected gradient algorithm and PSD projection"
+        }
+    ],
+    "full_llm_interaction_log": [
+        {
+            "prompt": "Implement the projected gradient SVM from the indefinite kernels paper",
+            "response_summary": "Provided implementation of kernel generation, PSD projection, and gradient descent",
+            "timestamp": "2026-03-11"
+        }
+    ],
+    "top_5_prompts": [
+        "How to implement RBF kernel matrix computation in NumPy?",
+        "How to project an indefinite matrix to the PSD cone using eigen-decomposition?",
+        "Implement projected gradient descent for SVM dual optimization",
+        "How to compute the Lipschitz constant for the SVM gradient?",
+        "How to compute the SVM bias term from support vectors?"
+    ],
+    "student_declaration": {
+        "declaration": "I declare that I have used LLM tools as disclosed above. The final implementation is my own.",
+        "date": "2026-03-11",
+        "signature": "Vishesh"
+    }
+}

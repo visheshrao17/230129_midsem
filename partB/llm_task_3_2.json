@@ -1,0 +1,37 @@
+{
+    "student_metadata": {
+        "Vishesh": "Vishesh",
+        "enrolment_number": "230129",
+        "course": "Advanced Machine Learning",
+        "assignment": "Mid-Semester Part B",
+        "paper": "Analysis of SVM with Indefinite Kernels (NIPS 2009)"
+    },
+    "task_tag": "Task 3.2",
+    "task_description": "Failure Case - Demonstrating method failure under extreme kernel noise",
+    "llm_tools_used": [
+        {
+            "tool_name": "ChatGPT / Claude / Gemini",
+            "version": "Specify version used",
+            "purpose": "Assisted in designing the failure case experiment"
+        }
+    ],
+    "full_llm_interaction_log": [
+        {
+            "prompt": "What are failure cases for SVM with indefinite kernels?",
+            "response_summary": "Identified extreme noise as primary failure mode with SNR analysis",
+            "timestamp": "2026-03-11"
+        }
+    ],
+    "top_5_prompts": [
+        "What causes the indefinite kernel SVM method to fail?",
+        "How does noise level affect PSD projection quality?",
+        "Explain signal-to-noise ratio in kernel matrices",
+        "How to plot accuracy vs noise level for failure analysis?",
+        "Why does eigen-decomposition fail to separate signal from noise at high noise?"
+    ],
+    "student_declaration": {
+        "declaration": "I declare that I have used LLM tools as disclosed above. The final failure analysis is my own.",
+        "date": "2026-03-11",
+        "signature": "Vishesh"
+    }
+}

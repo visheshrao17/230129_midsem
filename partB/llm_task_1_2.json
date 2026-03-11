@@ -1,0 +1,37 @@
+{
+    "student_metadata": {
+        "Vishesh": "Vishesh",
+        "enrolment_number": "230129",
+        "course": "Advanced Machine Learning",
+        "assignment": "Mid-Semester Part B",
+        "paper": "Analysis of SVM with Indefinite Kernels (NIPS 2009)"
+    },
+    "task_tag": "Task 1.2",
+    "task_description": "Assumptions Analysis - Identifying and analyzing key assumptions of the paper",
+    "llm_tools_used": [
+        {
+            "tool_name": "ChatGPT / Claude / Gemini",
+            "version": "Specify version used",
+            "purpose": "Assisted in identifying implicit assumptions in the paper"
+        }
+    ],
+    "full_llm_interaction_log": [
+        {
+            "prompt": "What are the key assumptions in the SVM with indefinite kernels paper?",
+            "response_summary": "Identified assumptions about PSD approximation, Lipschitz gradients, and computational feasibility",
+            "timestamp": "2026-03-11"
+        }
+    ],
+    "top_5_prompts": [
+        "What assumptions does the SVM with indefinite kernels paper make about the kernel matrix?",
+        "Why does the projected gradient method require Lipschitz continuous gradients?",
+        "What happens if the PSD proxy does not preserve discriminative structure?",
+        "What are the computational assumptions for eigen-decomposition in kernel methods?",
+        "Describe violation scenarios for each assumption"
+    ],
+    "student_declaration": {
+        "declaration": "I declare that I have used LLM tools as disclosed above. The final analysis is my own.",
+        "date": "2026-03-11",
+        "signature": "Vishesh"
+    }
+}

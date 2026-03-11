@@ -1,0 +1,37 @@
+{
+    "student_metadata": {
+        "Vishesh": "Vishesh",
+        "enrolment_number": "230129",
+        "course": "Advanced Machine Learning",
+        "assignment": "Mid-Semester Part B",
+        "paper": "Analysis of SVM with Indefinite Kernels (NIPS 2009)"
+    },
+    "task_tag": "Task 1.3",
+    "task_description": "Baseline Comparison - Comparing proposed method with standard SVM",
+    "llm_tools_used": [
+        {
+            "tool_name": "ChatGPT / Claude / Gemini",
+            "version": "Specify version used",
+            "purpose": "Assisted in structuring the comparison and identifying failure scenarios"
+        }
+    ],
+    "full_llm_interaction_log": [
+        {
+            "prompt": "Compare standard SVM with the indefinite kernel SVM proposed in the paper",
+            "response_summary": "Provided comparison table and identified key advantages and failure modes",
+            "timestamp": "2026-03-11"
+        }
+    ],
+    "top_5_prompts": [
+        "What are the limitations of standard SVM when handling indefinite kernels?",
+        "How does the min-max framework improve over ad-hoc spectrum clipping?",
+        "What are the convergence guarantees of the proposed method vs standard SVM?",
+        "In what scenarios does the proposed method fail?",
+        "Compare computational complexity of standard SVM vs indefinite kernel SVM"
+    ],
+    "student_declaration": {
+        "declaration": "I declare that I have used LLM tools as disclosed above. The final comparison is my own.",
+        "date": "2026-03-11",
+        "signature": "Vishesh"
+    }
+}

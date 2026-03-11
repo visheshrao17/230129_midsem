@@ -1,0 +1,37 @@
+{
+    "student_metadata": {
+        "Vishesh": "Vishesh",
+        "enrolment_number": "230129",
+        "course": "Advanced Machine Learning",
+        "assignment": "Mid-Semester Part B",
+        "paper": "Analysis of SVM with Indefinite Kernels (NIPS 2009)"
+    },
+    "task_tag": "Task 2.3",
+    "task_description": "Evaluation - Metrics, confusion matrix, eigenvalue plots, and decision boundary",
+    "llm_tools_used": [
+        {
+            "tool_name": "ChatGPT / Claude / Gemini",
+            "version": "Specify version used",
+            "purpose": "Assisted in creating evaluation visualizations and metrics"
+        }
+    ],
+    "full_llm_interaction_log": [
+        {
+            "prompt": "Create evaluation plots for the SVM with indefinite kernels reproduction",
+            "response_summary": "Provided code for confusion matrix, eigenvalue plots, and decision boundary",
+            "timestamp": "2026-03-11"
+        }
+    ],
+    "top_5_prompts": [
+        "How to plot a confusion matrix heatmap with seaborn?",
+        "How to visualize kernel eigenvalue spectrum before and after PSD projection?",
+        "How to plot SVM decision boundary with kernel method?",
+        "Create a reproducibility checklist for ML experiments",
+        "How to compare classification metrics across different kernel methods?"
+    ],
+    "student_declaration": {
+        "declaration": "I declare that I have used LLM tools as disclosed above. The final evaluation is my own.",
+        "date": "2026-03-11",
+        "signature": "Vishesh"
+    }
+}
